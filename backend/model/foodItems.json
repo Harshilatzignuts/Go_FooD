@@ -1,0 +1,142 @@
+[
+  {
+    "CategoryName": "Italian",
+    "name": "Margherita Pizza",
+    "img": "https://source.unsplash.com/featured/?pizza",
+    "options": [{ "half": 130, "full": 220 }],
+    "description": "Classic pizza with tomato, mozzarella, and basil"
+  },
+  {
+    "CategoryName": "Italian",
+    "name": "Penne Arrabiata",
+    "img": "https://source.unsplash.com/featured/?penne",
+    "options": [{ "regular": 160, "large": 270 }],
+    "description": "Pasta with spicy tomato sauce and herbs"
+  },
+  {
+    "CategoryName": "Italian",
+    "name": "Tiramisu",
+    "img": "https://source.unsplash.com/featured/?tiramisu",
+    "options": [{ "slice": 120, "whole": 220 }],
+    "description": "Classic Italian dessert with layers of coffee-soaked ladyfingers and mascarpone"
+  },
+  {
+    "CategoryName": "Italian",
+    "name": "Chicken Alfredo Pasta",
+    "img": "https://source.unsplash.com/featured/?alfredopasta",
+    "options": [{ "regular": 180, "large": 300 }],
+    "description": "Creamy Alfredo sauce with grilled chicken and fettuccine pasta"
+  },
+  {
+    "CategoryName": "Italian",
+    "name": "Caprese Salad",
+    "img": "https://source.unsplash.com/featured/?capresesalad",
+    "options": [{ "standard": 100, "deluxe": 180 }],
+    "description": "Fresh salad with tomatoes, mozzarella, and basil drizzled with balsamic glaze"
+  },
+  {
+    "CategoryName": "Chinese",
+    "name": "Chicken Fried Rice",
+    "img": "https://source.unsplash.com/featured/?friedrice",
+    "options": [{ "regular": 150, "large": 250 }],
+    "description": "Stir-fried rice with chicken, vegetables, and soy sauce"
+  },
+  {
+    "CategoryName": "Chinese",
+    "name": "Sweet and Sour Chicken",
+    "img": "https://source.unsplash.com/featured/?sweetandsour",
+    "options": [{ "regular": 170, "large": 280 }],
+    "description": "Crispy chicken in a tangy sweet and sour sauce"
+  },
+  {
+    "CategoryName": "Chinese",
+    "name": "Beef and Broccoli Stir-Fry",
+    "img": "https://source.unsplash.com/featured/?beefbroccoli",
+    "options": [{ "regular": 190, "large": 310 }],
+    "description": "Savory stir-fried beef with broccoli in a flavorful sauce"
+  },
+  {
+    "CategoryName": "Chinese",
+    "name": "Egg Drop Soup",
+    "img": "https://source.unsplash.com/featured/?eggdropsoup",
+    "options": [{ "small": 80, "large": 140 }],
+    "description": "Light and savory Chinese soup with beaten eggs and green onions"
+  },
+  {
+    "CategoryName": "Chinese",
+    "name": "Shrimp Lo Mein",
+    "img": "https://source.unsplash.com/featured/?shrimplo mein",
+    "options": [{ "regular": 160, "large": 280 }],
+    "description": "Stir-fried noodles with shrimp and vegetables in a savory sauce"
+  },
+  {
+    "CategoryName": "Dessert",
+    "name": "Chocolate Brownie",
+    "img": "https://source.unsplash.com/featured/?brownie",
+    "options": [{ "single": 80, "double": 150 }],
+    "description": "Rich and fudgy chocolate brownie"
+  },
+  {
+    "CategoryName": "Dessert",
+    "name": "Vanilla Ice Cream",
+    "img": "https://source.unsplash.com/featured/?vanillaicecream",
+    "options": [{ "scoop": 50, "double": 90 }],
+    "description": "Classic vanilla-flavored ice cream"
+  },
+  {
+    "CategoryName": "Dessert",
+    "name": "Strawberry Cheesecake",
+    "img": "https://source.unsplash.com/featured/?cheesecake",
+    "options": [{ "slice": 150, "whole": 280 }],
+    "description": "Creamy cheesecake topped with fresh strawberries"
+  },
+  {
+    "CategoryName": "Dessert",
+    "name": "Fruit Salad",
+    "img": "https://source.unsplash.com/featured/?fruitsalad",
+    "options": [{ "standard": 90, "deluxe": 160 }],
+    "description": "Assorted fresh fruits served in a refreshing salad"
+  },
+  {
+    "CategoryName": "Dessert",
+    "name": "Caramel Pudding",
+    "img": "https://source.unsplash.com/featured/?caramelpudding",
+    "options": [{ "single": 100, "double": 180 }],
+    "description": "Smooth and creamy caramel-flavored pudding"
+  },
+  {
+    "CategoryName": "Italian",
+    "name": "Garlic Bread",
+    "img": "https://source.unsplash.com/featured/?garlicbread",
+    "options": [{ "serving": 60, "family": 120 }],
+    "description": "Toasted bread with garlic and butter"
+  },
+  {
+    "CategoryName": "Chinese",
+    "name": "Spring Rolls",
+    "img": "https://source.unsplash.com/featured/?springrolls",
+    "options": [{ "pair": 90, "platter": 160 }],
+    "description": "Crispy rolls filled with vegetables and served with dipping sauce"
+  },
+  {
+    "CategoryName": "Dessert",
+    "name": "Mango Sorbet",
+    "img": "https://source.unsplash.com/featured/?mangosorbet",
+    "options": [{ "scoop": 70, "double": 130 }],
+    "description": "Refreshing mango-flavored sorbet"
+  },
+  {
+    "CategoryName": "Italian",
+    "name": "Minestrone Soup",
+    "img": "https://source.unsplash.com/featured/?minestronesoup",
+    "options": [{ "bowl": 80, "pot": 150 }],
+    "description": "Hearty Italian soup with vegetables and pasta"
+  },
+  {
+    "CategoryName": "Chinese",
+    "name": "Hot and Sour Soup",
+    "img": "https://source.unsplash.com/featured/?hotandsoursoup",
+    "options": [{ "bowl": 90, "pot": 160 }],
+    "description": "Spicy and tangy Chinese soup with mushrooms and tofu"
+  }
+]
